@@ -5,15 +5,15 @@ Game is based on HTML, CSS, Javascript and jQuery.
 
 ### HOW TO START
 
-* git clone 
+* clone the repository https://github.com/Moniaesz/Matching-game-udacity-2018.git
 
 Open index.html and play!
 
-* or just click here: 
+* or just click here (codepen preview): https://codepen.io/moniasz/pen/VXBmre
 
 
 ### GAME FEATURES
-
+`
 Game consist of deck of cards and panel with star rating, move counter, timer and restart button.
 
 * Stars inform You about the level of Your skills and are based on numbers of moves You made to complete game successfully. At the beginning there are 3 full- coloured stars. Inside colour disappears accordingly when You hit over 20 (first star), 30 (second star), 40 (third star). 
