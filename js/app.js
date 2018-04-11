@@ -71,13 +71,13 @@ while (lostLife > 0) {
 //check number of moves and call starRating function to set proper stars accordingly
 function calculateLostLife() {
 
-if (moves > 10) {
+if (moves > 25) {
     return 3;
 }  
-if (moves > 7) {
+if (moves > 20) {
     return 2;
 }  
-if (moves > 5) {
+if (moves > 15) {
     return 1;
 }
 return 0;
@@ -136,7 +136,7 @@ if (openCards.length === 2) {
 }
 
 // showing modal popup after completing game
-if (matchedCards === 1) {
+if (matchedCards === 8) {
     play = false;
     allowed = false;
     modalPop();
