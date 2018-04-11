@@ -41,6 +41,6 @@ Actions in each turn:
 
 ### GAME DEPENDENCIES:
 
-Function for random cards shuffle: http://stackoverflow.com/a/2450976
-Modal pop-up based on // https://www.w3schools.com/howto/howto_css_modals.asp
-Timer based on https://stackoverflow.com/questions/27836667/stopwatch-in-seconds-and-milliseconds
+* Function for random cards shuffle: http://stackoverflow.com/a/2450976
+* Modal pop-up based on // https://www.w3schools.com/howto/howto_css_modals.asp
+* Timer based on https://stackoverflow.com/questions/27836667/stopwatch-in-seconds-and-milliseconds
