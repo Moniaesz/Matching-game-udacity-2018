@@ -9,11 +9,10 @@ Game is based on HTML, CSS, Javascript and jQuery.
 
 Open index.html and play!
 
-* or just click here (codepen preview): https://codepen.io/moniasz/pen/VXBmre
-
+* or go to live preview: https://moniaesz.github.io/matching-game/
 
 ### GAME FEATURES
-`
+
 Game consist of deck of cards and panel with star rating, move counter, timer and restart button.
 
 * Stars inform You about the level of Your skills and are based on numbers of moves You made to complete game successfully. At the beginning there are 3 full- coloured stars. Inside colour disappears accordingly when You hit over 20 (first star), 30 (second star), 40 (third star). 
@@ -37,7 +36,6 @@ Actions in each turn:
 * When card’s symbol are matched  (flipped together in one turn), card colour is changing and both card stays flipped on the deck. 
 
 * When all cards are matched You will get the information that sums up Your time, number of moves and star rating.
-
 
 ### GAME DEPENDENCIES:
 
